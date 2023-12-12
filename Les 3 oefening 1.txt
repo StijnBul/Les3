@@ -3,3 +3,18 @@ https://dog.ceo/api/breeds/image/random
 
 5 random afbeeldingen
 https://dog.ceo/api/breed/puggle/images/random/5
+
+Countries API:
+https://restcountries.com/v3.1/name/switzerland?fullText=true
+https://restcountries.com/v3.1/currency/euro
+https://restcountries.com/v3.1/all?fields=name,capital,currencie
+
+Github API:
+https://api.github.com/users/StijnBul/repos
+https://api.github.com/repos/StijnBul/StijnBul.github.io/commits
+https://api.github.com/search/repositories?q=language:python&sort=stars&order=desc
+
+Rick and Morty API:
+https://rickandmortyapi.com/api/episode
+https://rickandmortyapi.com/api/character/?name=SEARCH_TERM
+Zoeken op seizoen is niet mogelijk in deze API
